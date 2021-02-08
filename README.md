@@ -19,7 +19,7 @@ Conditional Variational AutoEncoder trained on MNIST
 
 ------------------
 ## Reconstruction  
-![recon_img](./images/recon_img.png)  
+![recon_img](./images/recon_img.PNG)  
 
 ------------------
 ## Distribution of test images in 2D space  
@@ -28,7 +28,7 @@ Conditional Variational AutoEncoder trained on MNIST
 ------------------
 ## Make new handwritting digits by decoder  
 ### Same label  
-![handwritting_img_1](./images/handwritting_img1.png)
+![handwritting_img_1](./images/handwritting_img1.PNG)
   
 ## Same latent vector  
-![handwritting_img_2](./images/handwritting_img2.png)
+![handwritting_img_2](./images/handwritting_img2.PNG)
