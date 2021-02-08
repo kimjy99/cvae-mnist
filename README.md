@@ -30,5 +30,5 @@ Conditional Variational AutoEncoder trained on MNIST
 ### Same label  
 ![handwritting_img_1](./images/handwritting_img1.PNG)
   
-## Same latent vector  
+### Same latent vector  
 ![handwritting_img_2](./images/handwritting_img2.PNG)
